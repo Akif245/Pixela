@@ -39,10 +39,10 @@ header={
 today=datetime(year=2025,month=5,day=19)
 # print(today.strftime("%Y%m%d"))
 
-day_start="20250520"
+day_start="20250517"
 value_para={
     "date":today.strftime("%Y%m%d"),
-    "quantity":"15"
+    "quantity":"40"
 
 
 }
