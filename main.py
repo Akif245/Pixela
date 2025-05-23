@@ -49,5 +49,3 @@ value_para={
 
 response=requests.post(url=graph_endpnt_value_insert,json=value_para,headers=header)
 print(response.text)
-
-
